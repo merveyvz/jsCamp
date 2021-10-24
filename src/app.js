@@ -3,6 +3,7 @@ console.log("hello world")
 //JS type safe değildir
 
 let dolarBugun = 9.32
+
 let dolarDun = 9.20
 
 {
